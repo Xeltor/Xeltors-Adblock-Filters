@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: Xeltor's Adblock List
+! Last modified: 30-06-2020
+! Expires: 4 days (update frequency)
+! Homepage: github.com/Xeltor/Xeltors-Adblock-Filters
+!
+! agf.nl
+agf.nl###topbanners
+agf.nl###popup
+agf.nl###banners_zijkant
+||agfstorage.blob.core.windows.net/banners/*.gif$image
+||cdn.agf.nl/nieuws/gif-jpg/*.gif$image

@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: Xeltor's Annoyances List
+! Last modified: 30-06-2020
+! Expires: 4 days (update frequency)
+! Homepage: github.com/Xeltor/Xeltors-Adblock-Filters
+!
