@@ -5,3 +5,7 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: github.com/Xeltor/Xeltors-Adblock-Filters
 !
+! icy-veins.com
+www.icy-veins.com###icy_veins_plea
+www.icy-veins.com##[href="https://www.icy-veins.com/forums/premium"] > span
+||static.icy-veins.com/images/common/forums-premium.png*$image
