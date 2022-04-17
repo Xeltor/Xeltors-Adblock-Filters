@@ -8,6 +8,11 @@
 ||ubereats.com^
 ||takeaway.com^
 ||citymeal.com^
+||eet.nu^
+||deliveroo.nl^
+||thuisuiteten.nl^
+||butlon.com^
+||heerlijkbezorgen.nl^
 ||dearkvandelft.nl^
 ||desnek.nl^
-||tacomundo.nl^
+||tacomundo.com^
