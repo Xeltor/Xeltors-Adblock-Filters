@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: Xeltor's Geen Thuisbezorgd
+! Last modified: 17-04-2022
+! Expires: 7 days (update frequency)
+! Homepage: github.com/Xeltor/Xeltors-Geen-Thuisbezorgd
+||thuisbezorgd.nl^
+||ubereats.com^
+||takeaway.com^
+||citymeal.com^
+||dearkvandelft.nl^
+||desnek.nl^
+||tacomundo.nl^
